@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 200" font-family="Arial,Helvetica,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 702 200" font-family="Arial,Helvetica,sans-serif">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#2a2c5e"/><stop offset="0.5" stop-color="#4870ad"/><stop offset="1" stop-color="#2a2c5e"/>
 </linearGradient>
 </defs>
-<rect width="690" height="200" fill="#ffffff"/>
+<rect width="702" height="200" fill="#ffffff"/>
 <path d="M184.19 48.28 A 84 84 0 0 0 120.93 16.05" fill="none" stroke="#a6a6a4" stroke-width="9" stroke-linecap="butt"/>
 <path d="M86.53 22.12 A 84 84 0 0 0 43.83 60.56" fill="none" stroke="#a6a6a4" stroke-width="9" stroke-linecap="butt"/>
 <path d="M37.25 123.15 A 84 84 0 0 0 71.03 169.64" fill="none" stroke="#a6a6a4" stroke-width="9" stroke-linecap="butt"/>
@@ -16,5 +16,5 @@
 <text x="118" y="112" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" fill="#2f3160" letter-spacing="1">APS</text>
 <line x1="238" y1="52" x2="238" y2="148" stroke="#8f9296" stroke-width="3"/>
 <text x="266" y="118" font-size="70" font-weight="bold" fill="url(#bg)" letter-spacing="1">ADVANCED</text>
-<text x="268" y="160" font-family="Georgia,'Times New Roman',serif" font-size="27" fill="#9a9a99" letter-spacing="6">PROCESS SYSTEMS <tspan font-style="italic" font-size="20" letter-spacing="0">Corp.</tspan></text>
+<text x="268" y="160" font-family="Georgia,'Times New Roman',serif" font-size="29" fill="#565c6b" letter-spacing="5">PROCESS SYSTEMS <tspan font-style="italic" font-size="22" letter-spacing="0">Corp.</tspan></text>
 </svg>
