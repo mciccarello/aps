@@ -8,3 +8,6 @@ Icon?
 *~
 *.swp
 Thumbs.db
+
+# Source scan containing personal contact info — do not publish
+assets/business_card.png
