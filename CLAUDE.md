@@ -48,4 +48,4 @@ step, no framework. Deployed via GitHub Pages.
 ## Contact info (as shown on the site)
 
 Tim Erisman — 925.258.1920 — terisman@advancedprosystems.com
-6920 Koll Center Parkway, Suite 223, Pleasanton, California 94566
+PO Box 897, Orinda, CA 94563
